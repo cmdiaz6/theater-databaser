@@ -6,7 +6,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-    "public": "/Users/carlos.m.diaz/Projects/theater_database",
+    "public": "src",
     "ignore": [
       "firebase.json",
       "**/.*",
